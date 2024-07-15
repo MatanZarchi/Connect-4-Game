@@ -22,19 +22,23 @@
 
 ## ❗Usage & Pics
 
-**Choose rival - friend or computer, than choose size of game board**
+**Choose rival - friend or computer, than choose size of game board:**
 
 <img src="https://github.com/user-attachments/assets/6ea29fcb-3b27-4819-b2f5-8baf5350b956" alt="image" width="700" height="auto">
 
-**Choose column - the system put your X | O from the bottom up**
+**Choose column - the system put your X | O from the bottom up:**
 
-<img src="https://github.com/user-attachments/assets/183d192b-5d75-432a-95b5-c65300379ae9" alt="image" width="700" height="auto">
+<img src="https://github.com/user-attachments/assets/fa266be6-c443-4746-bedb-ebe60257415d" alt="image" width="700" height="auto">
 
-**If column full you'll get message**
+**Computer's turn:**
+
+<img src="https://github.com/user-attachments/assets/cefe9c3f-a91b-49ad-bf67-a4b0c3d7ddfd" alt="image" width="700" height="auto">
+
+**If column is full you'll get a message:**
 
 <img src="https://github.com/user-attachments/assets/9a8a6050-0d51-4e43-96c5-53e4f77d66f9" alt="image" width="700" height="auto">
 
-**Exit or new game**
+**Exit or new game:**
 
 <img src="https://github.com/user-attachments/assets/a68bfc7b-15c8-4433-a933-dfbfef378763" alt="image" width="700" height="auto">
 
